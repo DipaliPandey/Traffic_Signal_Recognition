@@ -1,3 +1,3 @@
 # Traffic_Signal_Recognition
 
-https://medium.com/@ssahityav/82cd3fde9178
+[AML Group #5 Blog Report.docx](https://github.com/mahika7/Traffic_Signal_Recognition/files/7696425/AML.Group.5.Blog.Report.docx)

@@ -24,12 +24,12 @@ This is the goal of the project: creating a classifier that can quickly and accu
 ### Dataset
 
 
-A data set of 43 classes of road signs with 51,840 images in Germany was gathered. The classes included stop signs, speed limits, yields, road work, and similar traffic signs. Pretty much everything one would see on a road aside from street names and mileage markers. Each image was converted into an array using the PIL module on Python to perform the analysis.
+A dataset of 43 classes of road signs with 51,840 images in Germany was gathered (https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). The classes included stop signs, speed limits, yields, road work, and similar traffic signs. Pretty much everything one would see on a road aside from street names and mileage markers. Each image was converted into an array using the PIL module on Python to perform the analysis.
 
 ### Exploring New Datasets
 
 
-Post training three models on the original 43-feature dataset, a further exploration of the models was done using a new dataset. A new 62-feature dataset was used to train the CNNs. Three CNNs were trained, with the 3-layered model giving the best test accuracy. The individual models are looked at in-depth below.
+Post training three models on the original 43-feature dataset, a further exploration of the models was done using a new dataset (https://www.kaggle.com/aadilmalik94/trafficsigns). A new 62-feature dataset was used to train the CNNs. Three CNNs were trained, with the 3-layered model giving the best test accuracy. The individual models are looked at in-depth below.
 
 ### Validation Using External Data
 

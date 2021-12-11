@@ -48,3 +48,6 @@ The trained CNNs were tested using external data that was not part of the 2 data
 2. Individual Class Accuracy & Misclassifications
 - Classes with more data points have better prediction accuracy
 - Reasons for misclassification include similarity between signs (like speed limit signs) and quality (dark images with poor lighting & blurred images : resizing images affects quality)
+
+
+Detailed approach: https://medium.com/@ssahityav/82cd3fde9178
